@@ -7,6 +7,7 @@
 1. [旅行](./travel)
 2. [厨艺](./cooking)
 2. [电影](./movie.md)
+2. [音乐](./music.md)
 3. [拍摄视频](./videography)
 4. [网站收藏](./github/remark_github.md)
 

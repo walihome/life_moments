@@ -27,7 +27,7 @@
 
 ## 联系我
 
-如果您有任何问题或建议，请随时通过 [我的邮箱](mailto:your.email@example.com) 联系我！
+如果您有任何问题或建议，请随时通过 [我的邮箱](mailto:szqworking@gmail.com) 联系我！
 
 ---
 

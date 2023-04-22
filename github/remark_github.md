@@ -22,4 +22,9 @@ https://github.com/walihome/SQLite.swift
 代码实时渲染库
 https://github.com/walihome/lottie-ios
 
+电脑运行情况监控 eul
+https://github.com/walihome/eul
+
+
+
 

@@ -25,6 +25,10 @@ https://github.com/walihome/lottie-ios
 电脑运行情况监控 eul
 https://github.com/walihome/eul
 
+MAC监控软件 2021年更新
+https://github.com/walihome/stats
+
+
 
 
 

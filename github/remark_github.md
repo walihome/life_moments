@@ -19,5 +19,7 @@ https://github.com/walihome/Maccy
 SQLite.swift 语言安全层
 https://github.com/walihome/SQLite.swift
 
+代码实时渲染库
+https://github.com/walihome/lottie-ios
 
 

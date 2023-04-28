@@ -4,8 +4,8 @@
 
 ## 目录
 
-1. [旅行](./travel)
-2. [厨艺](./cooking)
+1. [旅行](./travel.md)
+2. [厨艺](./cooking.md)
 2. [电影](./movie.md)
 2. [音乐](./music.md)
 5. [省钱攻略](./savings_strategies.md)

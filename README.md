@@ -8,7 +8,7 @@
 2. [厨艺](./cooking)
 2. [电影](./movie.md)
 2. [音乐](./music.md)
-5. [省钱攻略](./SavingsStrategies.md)
+5. [省钱攻略](./savings_strategies.md)
 3. [拍摄视频](./videography)
 4. [网站收藏](./github/remark_github.md)
 

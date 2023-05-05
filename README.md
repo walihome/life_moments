@@ -6,6 +6,7 @@
 
 1. [旅行](./travel/README.md)
 2. [多媒体](./media/README.md)
+2. [理财](./finance/README.md)
 9. [收集箱](./box/收集箱_README.md)
 
 ## 旅行

@@ -11,7 +11,7 @@
 5. [省钱攻略](./savings_strategies.md)
 3. [拍摄视频](./videography)
 4. [网站收藏](./github/remark_github.md)
-9. [收集箱](./box/collect.md)
+9. [收集箱](./box/收集箱_README.md)
 
 ## 旅行
 

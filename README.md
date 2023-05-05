@@ -6,8 +6,6 @@
 
 1. [旅行](./travel/README.md)
 2. [多媒体](./media/README.md)
-5. [省钱攻略](./savings_strategies.md)
-2. [厨艺](./cooking.md)
 9. [收集箱](./box/收集箱_README.md)
 
 ## 旅行

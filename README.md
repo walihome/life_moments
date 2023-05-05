@@ -4,7 +4,7 @@
 
 ## 目录
 
-1. [旅行](./travel.md)
+1. [旅行](./travel/README.md)
 2. [厨艺](./cooking.md)
 2. [电影](./movie.md)
 2. [音乐](./music.md)
